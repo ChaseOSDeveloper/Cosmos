@@ -2,7 +2,7 @@
 
 --------------------------------------------
 Cosmos
--Old monolithic solution.
+-Old monolithic solution. 
 -Will be removed after all smaller parts split out.
 -Use of this solution is necessary for some users until all parts are split out.
 
@@ -48,7 +48,7 @@ Debug, Deploy, Visual Studio, XSharp (IDE Parts), Tools (IDE Parts)
 --------------------------------------------
 Kernel
 
--Kernel, Demos (not  User), Tests
+-Kernel, Demos (not Â User), Tests
 
 --------------------------------------------
 Test
